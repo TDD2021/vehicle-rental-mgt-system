@@ -1,0 +1,13 @@
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\bin\Debug\netcoreapp3.1\A1TimDonaldDavis.exe
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\bin\Debug\netcoreapp3.1\A1TimDonaldDavis.deps.json
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\bin\Debug\netcoreapp3.1\A1TimDonaldDavis.runtimeconfig.json
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\bin\Debug\netcoreapp3.1\A1TimDonaldDavis.runtimeconfig.dev.json
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\bin\Debug\netcoreapp3.1\A1TimDonaldDavis.dll
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\bin\Debug\netcoreapp3.1\A1TimDonaldDavis.pdb
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.csprojAssemblyReference.cache
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.AssemblyInfoInputs.cache
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.AssemblyInfo.cs
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.csproj.CoreCompileInputs.cache
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.dll
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.pdb
+C:\Users\tdona\Desktop\Fall2020\NET-PROG-32356\A1TimDonaldDavis\obj\Debug\netcoreapp3.1\A1TimDonaldDavis.genruntimeconfig.cache
